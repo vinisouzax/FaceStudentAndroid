@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FaceStudentApp</string>
+    <string name="title_activity_lista_area">ListaArea</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nomeUsuario">Nome do usuário</string>
+    <string name="emailUsuario">Email do usuário</string>
+    <string name="dataNascimento">Data de nascimento</string>
+    <string name="descricaoUsuario">Fale sobre seus conhecimentos</string>
+    <string name="sexoUsuario">Sexo</string>
+    <string name="sexoMasculino">Masculino</string>
+    <string name="sexoFeminino">Feminino</string>
+    <string name="areasAfins">Áreas afins</string>
+    <string name="proximo">Próximo</string>
+    <string name="quaisHabilidades">Quais são as habilidades que você está disposto a dar monitoria?</string>
+    <string name="pular">Pular etapa</string>
+    <string name="salvar">Salvar</string>
+    <string name="dicaCliqueEscolha">Clique sobre um ou mais itens para escolher</string>
+    <string name="boasVindas">Bem vindo</string>
+    <string name="areas">Áreas</string>
+    <string name="title_activity_lista_usuario">ListaUsuario</string>
+    <string name="title_activity_splash_screen">FaceStudentApp</string>
+    <string name="tituloPost">Título do post</string>
+</resources>
